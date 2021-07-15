@@ -4,3 +4,7 @@
 * `git status` - Show state of local repo
 * `git log` - List commit history
 * `git log --oneline` - Compact commit history
+
+### Branching
+* `git branch` - list local branches
+* `git branch new branch` create local branch `newBranch`

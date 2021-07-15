@@ -1,6 +1,6 @@
 ## Git Cheat Sheet
 
-Brief reference of various git commands.
+Brief reference of various git commands. Also practice with git branching.
 
 * `git init` - Initialize a local git repo in working directory
 * `git status` - Show state of local repo

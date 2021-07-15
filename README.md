@@ -8,3 +8,4 @@
 ### Branching
 * `git branch` - list local branches
 * `git branch new branch` create local branch `newBranch`
+* `git checkout newBranch` - Move to branch `newBranch`

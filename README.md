@@ -4,7 +4,7 @@
 * `git status` - Show state of local repo
 * `git log` - List commit history
 * `git log --oneline` - Compact commit history
-* `git config -l` - list git configuration
+* `git config -l` - list git and repo configuration
 
 ### Branching
 * `git branch` - list local branches
